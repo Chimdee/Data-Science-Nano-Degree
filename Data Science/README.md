@@ -13,7 +13,7 @@ In this notebook, using publicly available Airbnb Boston [_dataset_](https://www
 * [Seaborn](https://seaborn.pydata.org/)
 
 ### Blog post on Medium
-You can find a blog post which interprets this notebook results at [this](https://medium.com/@tserenchimedganbold) link. 
+You can find a blog post [here](https://medium.com/@tserenchimedganbold) which interprets this notebook results. 
 
 ### Lisence
 This work is licensed under the MIT License
