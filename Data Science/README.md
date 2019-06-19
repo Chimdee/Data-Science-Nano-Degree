@@ -12,5 +12,8 @@ In this notebook, using publicly available Airbnb Boston [_dataset_](https://www
 * [Matplotlib](https://matplotlib.org/v)
 * [Seaborn](https://seaborn.pydata.org/)
 
+### Blog post on Medium
+You can find a blog post which interprets this notebook results at [this](https://medium.com/@tserenchimedganbold) link. 
+
 ### Lisence
 This work is licensed under the MIT License
