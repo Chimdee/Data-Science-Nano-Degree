@@ -1,5 +1,5 @@
 ### About this notebook
-In this notebook, using publicly available Airbnb Boston dataset, basic visual exploration and predictive modelling are condicted to find answers to following questions.  
+In this notebook, using publicly available Airbnb Boston [_dataset_](https://www.kaggle.com/airbnb/boston), basic visual exploration and predictive modelling are condicted to find answers to following questions.  
 
    **Q1: Which area is cheaper/costly to stay in Boston?  
    Q2: When is cheap/expensive to stay in Airbnb Boston?  
