@@ -2,7 +2,7 @@
 In this notebook, using publicly available Airbnb Boston dataset, basic visual exploration and predictive modelling are condicted to find answers to following questions.  
    **Q1: Which area is cheaper/costly to stay in Boston?  
    Q2: When is cheap/expensive to stay in Airbnb Boston?  
-   Q3: What is the most important factor for Airbnb price in _Boston?_**  
+   Q3: What is the most important factor for Airbnb price in Boston?**  
 
 #### Dependencies 
 * [Numpy](http://www.numpy.org/)
