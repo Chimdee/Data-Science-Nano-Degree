@@ -40,8 +40,15 @@ This project is part of [Udacity](www.udacity.com)'s Data Science Nanodegree Pro
       script to process cleaned data (nlp-tasks using nlkt), build, train, test and save model (using sklearn, saving classifier.pkl)
     - classifier.pkl
       pickles trained model
-- 'ETL Pipeline Preparation.ipynb' and 'ML Pipeline Preparation.ipynb'
-  Jupyter notebooks for initial exploration and structuring etl tasks  
+- 'ETL Pipeline Preparation.ipynb' and 'ML Pipeline Preparation.ipynb' 
+   Jupyter notebooks for initial exploration and structuring etl tasks  
 
-### Requirements
-Requirements include pandas, nltk, scikit-learn and flask and are fully listed in requirements.txt and disaster_respond_pipeline.yml
+## Requirements :
+
+1. Flask
+2. NLTK
+3. numpy
+4. plotly
+5. pandas
+6. sklearn
+7. sqlalchemy
