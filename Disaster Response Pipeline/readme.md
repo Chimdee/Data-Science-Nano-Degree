@@ -52,3 +52,7 @@ This project is part of [Udacity](www.udacity.com)'s Data Science Nanodegree Pro
 5. pandas
 6. sklearn
 7. sqlalchemy
+
+
+## Link to the repository  
+[Disaster Response Pipeline](https://github.com/Chimdee/Data-Science-Nano-Degree/tree/master/Disaster%20Response%20Pipeline)
