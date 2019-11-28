@@ -11,15 +11,15 @@
 ## Installation <a name="installation"></a>
 
 Beyond the Anaconda distribution of Python, the following packages need to be installed:
-* opencv-python==3.2.0.6
-* h5py==2.6.0
-* matplotlib==2.0.0
-* numpy==1.12.0
-* scipy==0.18.1
-* tqdm==4.11.2
-* scikit-learn==0.18.1
-* keras==2.0.2
-* tensorflow==1.0.0   `   
+* opencv
+* h5py
+* matplotlib
+* numpy
+* scipy
+* tqdm
+* scikit-learn
+* keras
+* tensorflow   `   
 
 ## Project Overview<a name="overview"></a>
 
@@ -50,8 +50,8 @@ The human image dataset can be downloaded here: https://s3-us-west-1.amazonaws.c
 2. If a dog image is supplied, the model gives a prediction of the dog breed.
 3. The model is also able to identify the most resembling dog breed of a person.
 
-Project files can be found in this github repo: https://github.com/swang13/dog-breeds-classification
-More discussions can be found in this blog: https://medium.com/@wangshuocugb2005/dog-breeds-classification-with-cnn-transfer-learning-92217cba3129
+Project files can be found in this github repo: https://medium.com/@tserenchimedganbold/classifying-dogs-according-to-their-breeds-27c4bbbf5c21?sk=9ec5f5befe7b7ee37ab7fe013e02ea11
+More discussions can be found in this blog: https://medium.com/@tserenchimedganbold/classifying-dogs-according-to-their-breeds-27c4bbbf5c21?sk=9ec5f5befe7b7ee37ab7fe013e02ea11
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
