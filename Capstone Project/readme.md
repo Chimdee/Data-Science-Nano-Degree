@@ -33,7 +33,7 @@ Below are main foleders/files for this project:
     - weights.best.InceptionV3.hdf5: saved InceptionV3 model weights with best validation loss
     - weights.best.VGG16.hdf5: saved VGG16 model weights with best validation loss 
 4. dog_app.ipynb: a notebook used to build and train the dog breeds classification model 
-5. extract_bottleneck_features.py: functions to compute bottleneck features given a tensor converted from an image
+5. dog_app.html: a html version of dog_app.ipynb notebook 
 6. images: a few images to test the model manually
 
 Note: 
