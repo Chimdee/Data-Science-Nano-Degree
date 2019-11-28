@@ -15,8 +15,6 @@ Beyond the Anaconda distribution of Python, the following packages need to be in
 * h5py
 * matplotlib
 * numpy
-* scipy
-* tqdm
 * scikit-learn
 * keras
 * tensorflow   `   
@@ -43,9 +41,9 @@ The human image dataset can be downloaded here: https://s3-us-west-1.amazonaws.c
 
 ## Results<a name="results"></a>
 
-1. The model was able to reach an accuracy of 81.9% on test data.
-2. If a dog image is supplied, the model gives a prediction of the dog breed.
-3. The model is also able to identify the most resembling dog breed of a person.
+1. The model was able to reach an accuracy of 82.0574% on test data.
+2. When test image is supplied, the model gives a prediction of whether it is dog or human or neither of them.
+3. The model is also able to predict 6 out of 7 test images wichi consists of 4 dogs, 2 humans and 2 other objects. 
 
 Project files can be found in this [github repo](https://github.com/Chimdee/Data-Science-Nano-Degree/tree/master/Capstone%20Project)
 More discussions can be found in [this blog post](https://medium.com/@tserenchimedganbold/classifying-dogs-according-to-their-breeds-27c4bbbf5c21?sk=9ec5f5befe7b7ee37ab7fe013e02ea11)
