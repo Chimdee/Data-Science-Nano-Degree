@@ -50,8 +50,8 @@ The human image dataset can be downloaded here: https://s3-us-west-1.amazonaws.c
 2. If a dog image is supplied, the model gives a prediction of the dog breed.
 3. The model is also able to identify the most resembling dog breed of a person.
 
-Project files can be found in this github repo: https://medium.com/@tserenchimedganbold/classifying-dogs-according-to-their-breeds-27c4bbbf5c21?sk=9ec5f5befe7b7ee37ab7fe013e02ea11
-More discussions can be found in this blog: https://medium.com/@tserenchimedganbold/classifying-dogs-according-to-their-breeds-27c4bbbf5c21?sk=9ec5f5befe7b7ee37ab7fe013e02ea11
+Project files can be found in this [github repo](https://github.com/Chimdee/Data-Science-Nano-Degree/tree/master/Capstone%20Project)
+More discussions can be found in [this blog post](https://medium.com/@tserenchimedganbold/classifying-dogs-according-to-their-breeds-27c4bbbf5c21?sk=9ec5f5befe7b7ee37ab7fe013e02ea11)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
