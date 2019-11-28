@@ -17,7 +17,7 @@ Beyond the Anaconda distribution of Python, the following packages need to be in
 * numpy
 * scikit-learn
 * keras
-* tensorflow   `   
+* tensorflow
 
 ## Project Overview<a name="overview"></a>
 
@@ -37,8 +37,8 @@ Below are main foleders/files for this project:
 6. images: a few images to test the model manually
 
 Note: 
-The dog image dataset used by this project can be downloaded here: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
-The human image dataset can be downloaded here: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip
+The dog image dataset used by this project can be downloaded [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
+The human image dataset can be downloaded [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
 
 ## Results<a name="results"></a>
 
